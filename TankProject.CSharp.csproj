@@ -69,6 +69,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CameraControler.cs" />
+    <Compile Include="Assets\Scripts\DestroyLater.cs" />
+    <Compile Include="Assets\Scripts\HealthManager.cs" />
+    <Compile Include="Assets\Scripts\Shell.cs" />
     <Compile Include="Assets\Scripts\Tank.cs" />
   </ItemGroup>
   <ItemGroup>
